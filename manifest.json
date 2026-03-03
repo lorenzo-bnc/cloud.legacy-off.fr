@@ -19,5 +19,14 @@
             "type": "image/png",
             "purpose": "any maskable"
         }
+    ],
+    "screenshots": [
+        {
+            "src": "https://cloud.legacy-off.fr/assets/screenshots/home.png",
+            "sizes": "390x844",
+            "type": "image/png",
+            "form_factor": "narrow",
+            "label": "Legacy Cloud"
+        }
     ]
 }
