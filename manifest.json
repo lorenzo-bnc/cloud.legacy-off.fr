@@ -3,7 +3,7 @@
     "short_name": "Legacy Cloud",
     "description": "Votre espace cloud",
     "display": "standalone",
-    "background_color": "#f0f4ff",
+    "background_color": "#0f0e1",
     "theme_color": "#6c63ff",
     "orientation": "portrait-primary",
     "icons": [
@@ -20,6 +20,7 @@
             "purpose": "any maskable"
         }
     ],
+    
     "screenshots": [
         {
             "src": "https://cloud.legacy-off.fr/assets/screenshots/home.png",
@@ -28,5 +29,11 @@
             "form_factor": "narrow",
             "label": "Legacy Cloud"
         }
+    ],
+
+    "shortcuts": [
+        { "name": "Photos",    "url": "/galerie.php",   "icons": [{"src": "https://cloud.legacy-off.fr/assets/icons/icon-192.png", "sizes": "192x192"}] },
+        { "name": "Musiques",   "url": "/musique.php",   "icons": [{"src": "https://cloud.legacy-off.fr/assets/icons/icon-192.png", "sizes": "192x192"}] },
+        { "name": "Documents", "url": "/documents.php", "icons": [{"src": "https://cloud.legacy-off.fr/assets/icons/icon-192.png", "sizes": "192x192"}] }
     ]
 }
