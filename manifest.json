@@ -19,8 +19,7 @@
             "type": "image/png",
             "purpose": "any maskable"
         }
-    ],
-    
+    ], 
     "screenshots": [
         {
             "src": "https://cloud.legacy-off.fr/assets/screenshots/home.png",
@@ -30,10 +29,9 @@
             "label": "Legacy Cloud"
         }
     ],
-
     "shortcuts": [
-        { "name": "Photos",    "url": "/galerie.php",   "icons": [{"src": "https://cloud.legacy-off.fr/assets/icons/icon-192.png", "sizes": "192x192"}] },
-        { "name": "Musiques",   "url": "/musique.php",   "icons": [{"src": "https://cloud.legacy-off.fr/assets/icons/icon-192.png", "sizes": "192x192"}] },
-        { "name": "Documents", "url": "/documents.php", "icons": [{"src": "https://cloud.legacy-off.fr/assets/icons/icon-192.png", "sizes": "192x192"}] }
+        { "name": "Photos",    "url": "https://cloud.legacy-off.fr/galerie.php",   "icons": [{"src": "https://cloud.legacy-off.fr/assets/icons/icon-192.png", "sizes": "192x192"}] },
+        { "name": "Musiques",   "url": "https://cloud.legacy-off.fr/musique.php",   "icons": [{"src": "https://cloud.legacy-off.fr/assets/icons/icon-192.png", "sizes": "192x192"}] },
+        { "name": "Documents", "url": "https://cloud.legacy-off.fr/documents.php", "icons": [{"src": "https://cloud.legacy-off.fr/assets/icons/icon-192.png", "sizes": "192x192"}] }
     ]
 }
