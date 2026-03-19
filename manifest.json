@@ -35,6 +35,6 @@
         { "name": "Notes",    "url": "https://cloud.legacy-off.fr/notes.php",   "icons": [{"src": "https://cloud.legacy-off.fr/assets/icons/icon-192.png", "sizes": "192x192"}] },
         { "name": "Documents", "url": "https://cloud.legacy-off.fr/documents.php", "icons": [{"src": "https://cloud.legacy-off.fr/assets/icons/icon-192.png", "sizes": "192x192"}] },
         { "name": "Musiques",   "url": "https://cloud.legacy-off.fr/musique.php",   "icons": [{"src": "https://cloud.legacy-off.fr/assets/icons/icon-192.png", "sizes": "192x192"}] },
-        { "name": "Discographie",   "url": "https://cloud.legacy-off.fr/discographie.php",   "icons": [{"src": "https://cloud.legacy-off.fr/assets/icons/icon-192.png", "sizes": "192x192"}] },
+        { "name": "Discographie",   "url": "https://cloud.legacy-off.fr/discographie.php",   "icons": [{"src": "https://cloud.legacy-off.fr/assets/icons/icon-192.png", "sizes": "192x192"}] }
     ]
 }
